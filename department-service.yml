@@ -11,7 +11,7 @@ spring:
   hibernate:
    ddl-auto: update
  boot: 
-  message: Hello, Department Service updated
+  message: Hello, Department Service updated v2
 
 eureka:
  instance:
